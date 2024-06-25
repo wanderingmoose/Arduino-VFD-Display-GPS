@@ -10,8 +10,8 @@ Hope some of the informaiton here is usefull to you.
 Keep Tinkering.
 
 Hardware used:
-Arduino Nano
-Simple GPS from Aliexpress
+Arduino Nano,
+Simple GPS from Aliexpress,
 Noritake GU7003 112 x 16 VFD display.
 
  
