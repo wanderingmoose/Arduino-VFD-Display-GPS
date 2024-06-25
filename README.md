@@ -3,3 +3,8 @@ Simple sketch for reading speed, direction, and alitude from GPS module. And usi
 This was built to be used in a vehicle
 
 The laser cut case can be found under Doc's, the material was 3mm hardboard.
+
+
+This is not a complete how to, but more a reminder for me on how I achieved the project.
+Hope some of the informaiton here is usefull to you.
+Keep Tinkering.
