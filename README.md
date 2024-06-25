@@ -1,6 +1,7 @@
 # Arduino Nano VFD project with GPS
-Simple sketch for reading speed, direction, and alitude from GPS module. And using thermistor to get outside temperature, with a divider cct to read battery voltage.
+Simple sketch for reading speed, direction, and alitude from GPS module. And using thermistor to get outside temperature, with a voltage divider cct to read battery voltage.
 This was built to be used in a vehicle
+* -
 ![20240625_101901](https://github.com/wanderingmoose/Arduino-VFD-Display-GPS/assets/12417916/3f61c8b3-9397-4eca-b3a9-ca1500045eaa)
 The laser cut case can be found under Doc's, the material was 3mm hardboard.
 
