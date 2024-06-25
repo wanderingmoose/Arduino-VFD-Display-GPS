@@ -15,8 +15,8 @@ Arduino Nano,
 Simple GPS from Aliexpress,
 Noritake GU7003 112 x 16 VFD display.
 
-Noritake Display Info can be found 
-## https://www.noritake-elec.com/support/design-resources/support-guide/arduino-code-library-quick-start-guide
+# Noritake Display Info can be found 
+# https://www.noritake-elec.com/support/design-resources/support-guide/arduino-code-library-quick-start-guide
 
 
  
